@@ -19,7 +19,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={"px-20"}>
+      <body className={""}>
         <header>
           <nav>
             <Nav />
