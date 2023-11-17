@@ -19,13 +19,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={""}>
+        <body className={"h-[60px"}>
         <header>
           <nav>
             <Nav />
           </nav>
         </header>
-        <main>
+        <main className="mt-[60px]">
           <Providers>{children}</Providers>
         </main>
         <footer>

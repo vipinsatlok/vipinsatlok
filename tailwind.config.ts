@@ -13,9 +13,10 @@ const config: Config = {
   ],
   theme: {
     colors: {
-      pr1: "#F4F1BB",
-      pr2: "#9BC1BC",
-      pr3: "#5D576B",
+      pr1: "#706233",
+      pr2: "#B0926A",
+      pr3: "#E1C78F",
+      pr4: "#FAE7C9",
     },
     extend: {},
   },
